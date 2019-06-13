@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Contact from './js/Contact';
+import User from './js/User';
 
 ReactDOM.render(
   <div className="container-fluid">
     <div className="row">
-      <Contact className="col-3" />
-      <div className="col-9">Curriculo</div>
+      <User className="col-4" />
+      <div className="col-8">Curriculo</div>
     </div>
   </div>,
   document.getElementById('root')
