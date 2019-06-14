@@ -11,18 +11,26 @@ export default class Contact extends Component {
           </div>
         </div>
         <div className="card-body">
-          <p className="card-text">
-            <i className="fas fa-envelope-open-text" />
-            &nbsp;juliocesarlima19@gmail.com
-          </p>
-          <p className="card-text">
-            <i className="fas fa-phone-alt" />
-            &nbsp;3322-9846
-          </p>
-          <p className="card-text">
-            <i className="fas fa-mobile-alt" />
-            &nbsp;+55 (31)99803-5980
-          </p>
+          <ul className="list-group list-group-flush">
+            <il className="list-group-item">
+              <p className="card-text">
+                <i className="fas fa-envelope-open-text" />
+                &nbsp;juliocesarlima19@gmail.com
+              </p>
+            </il>
+            <il className="list-group-item">
+              <p className="card-text">
+                <i className="fas fa-phone-alt" />
+                &nbsp;3322-9846
+              </p>
+            </il>
+            <il className="list-group-item">
+              <p className="card-text">
+                <i className="fas fa-mobile-alt" />
+                &nbsp;+55 (31)99803-5980
+              </p>
+            </il>
+          </ul>
         </div>
       </div>
     );

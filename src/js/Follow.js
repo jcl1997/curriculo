@@ -11,14 +11,20 @@ export default class Follow extends Component {
           </div>
         </div>
         <div className="card-body">
-          <p className="card-text">
-            <i className="fab fa-instagram" />
-            &nbsp;instagram/juliocl1997
-          </p>
-          <p className="card-text">
-            <i className="fab fa-linkedin" />
-            &nbsp;linkedin/julioCesarLima1997
-          </p>
+          <ul className="list-group list-group-flush">
+            <il className="list-group-item">
+              <p className="card-text">
+                <i className="fab fa-instagram" />
+                &nbsp;instagram/juliocl1997
+              </p>
+            </il>
+            <il className="list-group-item">
+              <p className="card-text">
+                <i className="fab fa-linkedin" />
+                &nbsp;linkedin/julioCesarLima1997
+              </p>
+            </il>
+          </ul>
         </div>
       </div>
     );
