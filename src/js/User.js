@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Profile from './Profile';
 import Contact from './Contact';
 import Hobbies from './Hobbies';
+import Follow from './Follow';
 
 export default class User extends Component {
     render() {
@@ -10,11 +11,14 @@ export default class User extends Component {
                 <div className="p-2 mx-auto mt-1">
                     <Profile />
                 </div>
-                <div className="p-2">
+                <div className="p-2 mx-auto mt-1">
                     <Contact />
                 </div>
-                <div className="p-2">
+                <div className="p-2 mx-auto mt-1">
                     <Hobbies />
+                </div>
+                <div className="p-2 mx-auto mt-1">
+                    <Follow />
                 </div>
             </div>
         );
