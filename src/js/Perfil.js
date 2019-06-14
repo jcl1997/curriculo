@@ -8,6 +8,9 @@ export default class Header extends Component {
           <h1 className="card-title text-white">Perfil</h1>
         </div>
         <div className="pt-5 card-body">
+          <p>
+            hbhyuh nujui huik  hufi hjui dfiuhjuidjf  iyuhihde fu iusdf  uijuid fiuj dfgiuojioegf iuj dfgu hjui dfgiuo jui hdfgiu fguihui dguh udgufgui gfbu uigbuihfg uiui fguihduih ggfui gfuf gu gdhfguidg fgui gufi uifghiug d iudfhdgf huisfr h uisa huidh hd 8higu jdf uhiuf uhd uidf uufu fufh  ui ufrhfuf huihfuigv fuihui fsdf hii hf odf hjd hiuxf iuojdfg jvuijhxuifvhjuichfvj uud hjiudfvhj uifvcui uihui d vghuidfjui fjhuiv uidvfh iuhfdv uihiudfc vhuidfh uihdfuif hjuidfcv  dfui fhuifghuihuidfgv gioufgdu ghfdg ui gfuiougf fgghf jijdfjgf jk uiofnfg jnfbg uiifbv guioffbguiobf nfbgjbgfui bgfigb ioc kjiofg mobgfjfdbvmj iofgjfbvioj oifjbfg
+          </p>
           <ul className="list-group list-group-flush">
             <il className="list-group-item">
               <p className="mb-0 align-middle">
