@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Profile from './Profile';
 import Contact from './Contact';
+import Hobbies from './Hobbies';
 
 export default class User extends Component {
     render() {
@@ -11,6 +12,9 @@ export default class User extends Component {
                 </div>
                 <div className="p-2">
                     <Contact />
+                </div>
+                <div className="p-2">
+                    <Hobbies />
                 </div>
             </div>
         );
