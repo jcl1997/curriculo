@@ -12,18 +12,18 @@ export default class Follow extends Component {
         </div>
         <div className="card-body">
           <ul className="list-group list-group-flush">
-            <il className="list-group-item">
+            <li className="list-group-item">
               <p className="card-text">
                 <i className="fab fa-instagram" />
                 &nbsp;instagram/juliocl1997
               </p>
-            </il>
-            <il className="list-group-item">
+            </li>
+            <li className="list-group-item">
               <p className="card-text">
                 <i className="fab fa-linkedin" />
                 &nbsp;linkedin/julioCesarLima1997
               </p>
-            </il>
+            </li>
           </ul>
         </div>
       </div>

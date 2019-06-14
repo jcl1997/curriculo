@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import Header from './Header';
 import Perfil from './Perfil';
-import Skills from './Skills';
+import Experience from './Experience';
 import Education from './Education';
+import Skills from './Skills';
 
 export default class Curriculum extends Component {
   render() {
@@ -13,6 +14,9 @@ export default class Curriculum extends Component {
         </div>
         <div className="p-2 mx-auto mt-1">
           <Perfil />
+        </div>
+        <div className="p-2 mx-auto mt-1">
+          <Experience />
         </div>
         <div className="p-2 mx-auto mt-1">
           <Education />

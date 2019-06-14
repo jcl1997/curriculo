@@ -11,38 +11,36 @@ export default class Hobbies extends Component {
           </div>
           <div className="card-body">
             <ul className="list-group list-group-flush">
-              <il className="list-group-item">
+              <li className="list-group-item">
                 <p className="card-text">
                   <i className="fas fa-folder" />
                   &nbsp;Estudar programação
                 </p>
-              </il>
-              <il className="list-group-item">
+              </li>
+              <li className="list-group-item">
                 <p className="card-text">
                   <i className="fas fa-walking" />
                   &nbsp;Caminhada
                 </p>
-              </il>
-              <il className="list-group-item">
+              </li>
+              <li className="list-group-item">
                 <p className="card-text">
                   <i className="fas fa-headphones-alt" />
                   &nbsp;Ouvir música
                 </p>
-              </il>
-              <il className="list-group-item">
+              </li>
+              <li className="list-group-item">
                 <p className="card-text">
                   <i className="fas fa-gamepad" />
                   &nbsp;Jogar video game
                 </p>
-              </il>
-              <il className="list-group-item">
+              </li>
+              <li className="list-group-item">
                 <p className="card-text">
                   <i className="fas fa-play" />
-                  &nbsp;Assista a filmes,
-                  <br />
-                  documentários e tutoriais
+                  &nbsp;Assista a filmes, documentários e tutoriais
                 </p>
-              </il>
+              </li>
             </ul>
           </div>
       </div>
