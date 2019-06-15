@@ -38,7 +38,7 @@ export default class Hobbies extends Component {
               <li className="list-group-item">
                 <p className="card-text">
                   <i className="fas fa-play" />
-                  &nbsp;Assista a filmes, documentários e tutoriais
+                  &nbsp;Assisto a filmes, documentários e tutoriais
                 </p>
               </li>
             </ul>
