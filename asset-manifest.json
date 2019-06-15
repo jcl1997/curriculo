@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/curriculo/static/css/main.3001a135.chunk.css",
-    "main.js": "/curriculo/static/js/main.782969b5.chunk.js",
-    "main.js.map": "/curriculo/static/js/main.782969b5.chunk.js.map",
+    "main.js": "/curriculo/static/js/main.45167eb2.chunk.js",
+    "main.js.map": "/curriculo/static/js/main.45167eb2.chunk.js.map",
     "runtime~main.js": "/curriculo/static/js/runtime~main.b71702cc.js",
     "runtime~main.js.map": "/curriculo/static/js/runtime~main.b71702cc.js.map",
     "static/js/2.98dcc9dd.chunk.js": "/curriculo/static/js/2.98dcc9dd.chunk.js",
     "static/js/2.98dcc9dd.chunk.js.map": "/curriculo/static/js/2.98dcc9dd.chunk.js.map",
     "index.html": "/curriculo/index.html",
-    "precache-manifest.c6f0a150cc895f73c8f07d9db0241651.js": "/curriculo/precache-manifest.c6f0a150cc895f73c8f07d9db0241651.js",
+    "precache-manifest.a6db261096a44f46c5c3ef51b19b9eda.js": "/curriculo/precache-manifest.a6db261096a44f46c5c3ef51b19b9eda.js",
     "service-worker.js": "/curriculo/service-worker.js",
-    "static/css/main.3001a135.chunk.css.map": "/curriculo/static/css/main.3001a135.chunk.css.map"
+    "static/css/main.3001a135.chunk.css.map": "/curriculo/static/css/main.3001a135.chunk.css.map",
+    "static/media/foto.png": "/curriculo/static/media/foto.952d684e.png"
   }
 }
