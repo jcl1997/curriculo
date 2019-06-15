@@ -6,13 +6,15 @@ import './../css/profile.css';
 export default class Profile extends Component {
   render() {
     return <img
-      src={Photograph}
-      className="
+    src={Photograph}
+    className="
         img-fluid
         img-thumbnail
         rounded-circle
         border-dark
-        profile"
+        profile
+        mx-auto
+        d-block"
       alt="foto" />
   }
 }

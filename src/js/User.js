@@ -9,19 +9,19 @@ export default class User extends Component {
   render() {
     return (
       <div>
-        <div className="p-2 mx-auto mt-1">
+        <div className="p-2">
           <Profile />
         </div>
-        <div className="p-2 mx-auto mt-1">
+        <div className="p-2">
           <Contact />
         </div>
-        <div className="p-2 mx-auto mt-1">
+        <div className="p-2">
           <About />
         </div>
-        <div className="p-2 mx-auto mt-1">
+        <div className="p-2">
           <Hobbies />
         </div>
-        <div className="p-2 mx-auto mt-1">
+        <div className="p-2">
           <Follow />
         </div>
       </div>
