@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Profile from './Profile';
 import Contact from './Contact';
+import GoogleMap from './GoogleMap';
 import About from './About';
 import Hobbies from './Hobbies';
 import Follow from './Follow';
@@ -23,6 +24,9 @@ export default class User extends Component {
         </div>
         <div className="p-2">
           <Follow />
+        </div>
+        <div className="p-2">
+          <GoogleMap />
         </div>
       </div>
     );

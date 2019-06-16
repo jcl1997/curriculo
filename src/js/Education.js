@@ -21,6 +21,16 @@ export default class Skills extends Component {
                 1/2019
               </p>
             </li>
+            <li className="list-group-item">
+              <h2 className="mb-0 align-middle">Ensino Médio</h2>
+            </li>
+            <li className="list-group-item">
+              <p className="mb-0 align-middle">
+                Centro Federal de Educação Tecnológica de Minas Gerais -BELO HORIZONTE - MG
+                <br />
+                2014/2017
+              </p>
+            </li>
           </ul>
         </div>
       </div>
