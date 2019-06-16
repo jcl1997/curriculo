@@ -8,8 +8,12 @@ import {
 
 class MapContainer extends Component {
   render() {
+    console.log(this.props.google);
     return (
-        <Map google={this.props.google} zoom={14}>
+        <Map
+          google={this.props.google}
+          zoom={14}
+          initialCenter={{ lat: -20.0159746, lng: -44.0380226}} >
             <Marker onClick={this.onMarkerClick}
                 name={'Current location'} />
             <InfoWindow onClose={this.onInfoWindowClose} >
