@@ -8,7 +8,7 @@ export default class Header extends Component {
           <h1 className="card-title text-white">Júlio César Lima</h1>
         </div>
         <div className="card-body">
-          <h6>Desenvolvedor</h6>
+          <h5>Desenvolvedor web</h5>
         </div>
       </div>
     );

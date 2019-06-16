@@ -20,7 +20,7 @@ export default class Experience extends Component {
             <li className="list-group-item">
               <div className="d-flex w-100 justify-content-between">
                 <p className="mb-1">
-                  Fui convidado a fazer parte do projeto do novo soft da ENGECAl o XNINE.Um sistema de gestão de ativos(Utilizando Symfony PHP e React).Iniciamente fique reponsavel por criar Apis no backend.
+                Fui convidado a fazer parte do projeto do novo soft da ENGECAL o XNINE.Um sistema de gestão de ativos(Inicialmente fique reponsavel por criar Apis no backend).
                 </p>
                 <small className="text-muted">06/2018</small>
               </div>
@@ -28,7 +28,7 @@ export default class Experience extends Component {
             <li className="list-group-item">
               <div className="d-flex w-100 justify-content-between">
                 <p className="mb-1">
-                  Iniciei minha carreira como desenvolvedor na ENGECAL, fazendo manutenção do soft Webcal(Utillizando o CakePhp 2.x e jquery).
+                  Iniciei minha carreira como desenvolvedor na ENGECAL, fazendo manutenção do soft Webcal.
                 </p>
                 <small className="text-muted">11/2017</small>
               </div>
