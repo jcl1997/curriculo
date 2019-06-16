@@ -20,7 +20,7 @@ class MapContainer extends Component {
           </div>
         </div>
         <div className="card-body">
-          <p><i className="fas fa-map-marked-alt">&nbsp;R. Romero Gomes Vieira, 12 - Mangueiras, Belo Horizonte - MG, 30666-330</i></p>
+          <p><i className="fas fa-map-marked-alt">&nbsp;R. Romero Gomes Vieira, 419 - Mangueiras, Belo Horizonte - MG, 30666-330</i></p>
           <hr />
           <div className="google-map">
             <Map
