@@ -17,17 +17,12 @@ export default class Skills extends Component {
             </li>
             <li className="list-group-item">
               <p className="mb-0 align-middle">
-                <i className="fas fa-database fa-2x align-middle" />&nbsp;Mysql básico
-              </p>
-            </li>
-            <li className="list-group-item">
-              <p className="mb-0 align-middle">
-                <i className="fas fa-cogs fa-2x align-middle" />&nbsp;Lógica de programação
-              </p>
-            </li>
-            <li className="list-group-item">
-              <p className="mb-0 align-middle">
                 <i className="fab fa-js fa-2x align-middle" />&nbsp;Javascript básico
+              </p>
+            </li>
+            <li className="list-group-item">
+              <p className="mb-0 align-middle">
+                <i className="fab fa-bootstrap fa-2x align-middle" />&nbsp;Bootstrap
               </p>
             </li>
           </ul>

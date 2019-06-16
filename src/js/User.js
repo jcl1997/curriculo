@@ -17,13 +17,13 @@ export default class User extends Component {
           <Contact />
         </div>
         <div className="p-2">
+          <Follow />
+        </div>
+        <div className="p-2">
           <About />
         </div>
         <div className="p-2">
           <Hobbies />
-        </div>
-        <div className="p-2">
-          <Follow />
         </div>
         <div className="p-2">
           <GoogleMap />

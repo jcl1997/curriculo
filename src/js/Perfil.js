@@ -9,7 +9,7 @@ export default class Header extends Component {
         </div>
         <div className="pt-5 card-body">
           <p>
-            hbhyuh nujui huik  hufi hjui dfiuhjuidjf  iyuhihde fu iusdf  uijuid fiuj dfgiuojioegf iuj dfgu hjui dfgiuo jui hdfgiu fguihui dguh udgufgui gfbu uigbuihfg uiui fguihduih ggfui gfuf gu gdhfguidg fgui gufi uifghiug d iudfhdgf huisfr h uisa huidh hd 8higu jdf uhiuf uhd uidf uufu fufh  ui ufrhfuf huihfuigv fuihui fsdf hii hf odf hjd hiuxf iuojdfg jvuijhxuifvhjuichfvj uud hjiudfvhj uifvcui uihui d vghuidfjui fjhuiv uidvfh iuhfdv uihiudfc vhuidfh uihdfuif hjuidfcv  dfui fhuifghuihuidfgv gioufgdu ghfdg ui gfuiougf fgghf jijdfjgf jk uiofnfg jnfbg uiifbv guioffbguiobf nfbgjbgfui bgfigb ioc kjiofg mobgfjfdbvmj iofgjfbvioj oifjbfg
+          Atualmente sou desenvolvedor web, backend em php e frontend em react. Tenho facilidade em trabalhar em equipe, sou pontual.
           </p>
           <ul className="list-group list-group-flush">
             <li className="list-group-item">
@@ -30,16 +30,6 @@ export default class Header extends Component {
             <li className="list-group-item">
               <p className="mb-0 align-middle">
                 <i className="fab fa-git-alt fa-2x align-middle" />&nbsp;Git
-              </p>
-            </li>
-            <li className="list-group-item">
-              <p className="mb-0 align-middle">
-                <i className="fab fa-node-js fa-2x align-middle" />&nbsp;Node JS
-              </p>
-            </li>
-            <li className="list-group-item">
-              <p className="mb-0 align-middle">
-                <i className="fab fa-bootstrap fa-2x align-middle" />&nbsp;Bootstrap
               </p>
             </li>
           </ul>

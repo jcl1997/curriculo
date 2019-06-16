@@ -10,9 +10,9 @@ export default class Skills extends Component {
         <div className="pt-5 card-body">
           <ul className="list-group list-group-flush">
             <li className="list-group-item">
-              <h2 className="mb-0 align-middle">
+              <h3 className="mb-0 align-middle">
                 Análise e Desenvolvimento de Sistemas - ADS
-              </h2>
+              </h3>
             </li>
             <li className="list-group-item">
               <p className="mb-0 align-middle">
@@ -22,7 +22,7 @@ export default class Skills extends Component {
               </p>
             </li>
             <li className="list-group-item">
-              <h2 className="mb-0 align-middle">Ensino Médio</h2>
+              <h3 className="mb-0 align-middle">Ensino Médio</h3>
             </li>
             <li className="list-group-item">
               <p className="mb-0 align-middle">

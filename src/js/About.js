@@ -12,9 +12,7 @@ export default class Follow extends Component {
         </div>
         <div className="card-body">
           <p className="card-text">
-          Atualmente sou um desenvolvedor Web.
-          <br />
-          Trabalho com php e javascript.
+          Sou muito calmo, concentrado, pontual, gosto muito de estudar.
           </p>
         </div>
       </div>

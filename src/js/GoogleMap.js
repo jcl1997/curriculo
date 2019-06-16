@@ -3,15 +3,12 @@ import {
     Map,
     InfoWindow,
     Marker,
-    GoogleApiWrapper,
-    mapConfig
+    GoogleApiWrapper
 } from 'google-maps-react';
 import './../css/map.css';
 
 class MapContainer extends Component {
-  render() {
-    console.log('mapConfig::', mapConfig);
-    
+  render() { 
     return (
       <div className="card">
         <div className="card-header card-header-text bg-success">
@@ -33,8 +30,9 @@ class MapContainer extends Component {
               google={this.props.google}
               zoom={14}
               initialCenter={{ lat: -20.0159746, lng: -44.0380226}} >
-                <Marker onClick={this.onMarkerClick}
-                    name={'Current location'} />
+                <Marker
+                  onClick={this.onMarkerClick}
+                  name={'Current location'} />
                 <InfoWindow onClose={this.onInfoWindowClose} />
             </Map>
           </div>

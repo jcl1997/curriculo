@@ -24,6 +24,12 @@ export default class Follow extends Component {
                 &nbsp;linkedin/julioCesarLima1997
               </p>
             </li>
+            <li className="list-group-item">
+              <p className="card-text">
+                <i className="fab fa-github" />
+                &nbsp;jcl1997
+              </p>
+            </li>
           </ul>
         </div>
       </div>

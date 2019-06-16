@@ -30,6 +30,12 @@ export default class Contact extends Component {
                 &nbsp;+55 (31)99803-5980
               </p>
             </li>
+            <li className="list-group-item">
+              <p className="card-text">
+                <i className="fab fa-whatsapp" />
+                &nbsp;+55 (31)99803-5980
+              </p>
+            </li>
           </ul>
         </div>
       </div>
