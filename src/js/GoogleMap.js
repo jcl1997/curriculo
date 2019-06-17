@@ -8,12 +8,12 @@ import {
 import './../css/map.css';
 
 class MapContainer extends Component {
-  render() { 
+  render() {
     return (
       <div className="card">
         <div className="card-header card-header-text bg-success">
           <div className="card-text">
-          <h4 className="card-title text-white">Endereço</h4>
+          <h3 className="card-title text-white">Endereço</h3>
           </div>
         </div>
         <div className="card-body">

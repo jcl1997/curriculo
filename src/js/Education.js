@@ -5,14 +5,14 @@ export default class Skills extends Component {
     return (
       <div className="card">
         <div className="card-header">
-          <h1 className="card-title text-white">Educação</h1>
+          <h3 className="card-title text-white">Educação</h3>
         </div>
         <div className="pt-5 card-body">
           <ul className="list-group list-group-flush">
             <li className="list-group-item">
-              <h3 className="mb-0 align-middle">
+              <h4 className="mb-0 align-middle">
                 Análise e Desenvolvimento de Sistemas - ADS
-              </h3>
+              </h4>
             </li>
             <li className="list-group-item">
               <p className="mb-0 align-middle">
@@ -22,7 +22,7 @@ export default class Skills extends Component {
               </p>
             </li>
             <li className="list-group-item">
-              <h3 className="mb-0 align-middle">Ensino Médio</h3>
+              <h4 className="mb-0 align-middle">Ensino Médio</h4>
             </li>
             <li className="list-group-item">
               <p className="mb-0 align-middle">

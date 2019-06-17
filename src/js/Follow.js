@@ -7,7 +7,7 @@ export default class Follow extends Component {
       <div className="card">
         <div className="card-header card-header-text bg-danger">
           <div className="card-text">
-          <h4 className="card-title text-white">Siga-Me</h4>
+          <h3 className="card-title text-white">Siga-Me</h3>
           </div>
         </div>
         <div className="card-body">

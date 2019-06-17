@@ -5,7 +5,7 @@ export default class Skills extends Component {
     return (
       <div className="card">
         <div className="card-header">
-          <h1 className="card-title text-white">Habilidades</h1>
+          <h3 className="card-title text-white">Habilidades</h3>
         </div>
         <div className="pt-5 card-body">
           <ul className="list-group list-group-flush">

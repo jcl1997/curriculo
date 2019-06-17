@@ -7,7 +7,7 @@ export default class Contact extends Component {
       <div className="card">
         <div className="card-header card-header-text bg-success">
           <div className="card-text">
-          <h4 className="card-title text-white">Contatos</h4>
+          <h3 className="card-title text-white">Contatos</h3>
           </div>
         </div>
         <div className="card-body">

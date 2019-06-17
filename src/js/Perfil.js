@@ -5,7 +5,7 @@ export default class Header extends Component {
     return (
       <div className="card">
         <div className="card-header">
-          <h1 className="card-title text-white">Perfil</h1>
+          <h3 className="card-title text-white">Perfil</h3>
         </div>
         <div className="pt-5 card-body">
           <p>

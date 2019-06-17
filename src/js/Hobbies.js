@@ -6,7 +6,7 @@ export default class Hobbies extends Component {
       <div className="card">
           <div className="card-header card-header-text bg-info">
             <div className="card-text">
-              <h4 className="card-title text-white">Hobbies</h4>
+              <h3 className="card-title text-white">Hobbies</h3>
             </div>
           </div>
           <div className="card-body">
