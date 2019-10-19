@@ -26,13 +26,9 @@ export default class Contact extends Component {
             </li>
             <li className="list-group-item">
               <p className="card-text">
-                <i className="fas fa-mobile-alt" />
-                &nbsp;+55 (31)99803-5980
-              </p>
-            </li>
-            <li className="list-group-item">
-              <p className="card-text">
                 <i className="fab fa-whatsapp" />
+                &nbsp;+&nbsp;
+                <i className="fas fa-mobile-alt" />
                 &nbsp;+55 (31)99803-5980
               </p>
             </li>

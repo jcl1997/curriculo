@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 import Profile from './Profile';
 import Contact from './Contact';
 import GoogleMap from './GoogleMap';
@@ -9,7 +9,7 @@ import Follow from './Follow';
 export default class User extends Component {
   render() {
     return (
-      <div>
+      <Fragment>
         <div className="p-2">
           <Profile />
         </div>
@@ -28,7 +28,7 @@ export default class User extends Component {
         <div className="p-2">
           <GoogleMap />
         </div>
-      </div>
+      </Fragment>
     );
   }
 }

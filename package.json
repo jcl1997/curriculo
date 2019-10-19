@@ -8,7 +8,6 @@
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "gh-pages": "^2.0.1",
-    "google-maps-react": "^2.0.2",
     "material-dashboard-react": "^1.6.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
