@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 export default class Follow extends Component {
   render() {
-    //  style="width: 20rem;"
     return (
       <div className="card">
         <div className="card-header card-header-text bg-danger">
