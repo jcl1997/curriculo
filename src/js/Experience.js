@@ -12,6 +12,14 @@ export default class Experience extends Component {
             <li className="list-group-item">
               <div className="d-flex w-100 justify-content-between">
                 <p className="mb-1">
+                  O APP mobile da empresa começou a ser refatorado de java para javascript utilizando React Native.
+                </p>
+                <small className="text-muted">07/2019</small>
+              </div>
+            </li>
+            <li className="list-group-item">
+              <div className="d-flex w-100 justify-content-between">
+                <p className="mb-1">
                   Ainda no Projeto do XNINE comecei a trabalhar com o frontend Utilizando o React.
                 </p>
                 <small className="text-muted">01/2019</small>
@@ -20,7 +28,11 @@ export default class Experience extends Component {
             <li className="list-group-item">
               <div className="d-flex w-100 justify-content-between">
                 <p className="mb-1">
-                Fui convidado a fazer parte do projeto do novo soft da ENGECAL o XNINE.Um sistema de gestão de ativos(Inicialmente fique responsável por criar API's no backend).
+                  Depois fui adicionado no novo projeto da ENGECAL o "XNINE".
+                  <br />
+                  Um sistema de gestão de ativos com a função de fornecer um controle total sobre tudo.
+                  <br />
+                  Inicialmente fique responsável por criar API's no backend
                 </p>
                 <small className="text-muted">06/2018</small>
               </div>
@@ -28,7 +40,7 @@ export default class Experience extends Component {
             <li className="list-group-item">
               <div className="d-flex w-100 justify-content-between">
                 <p className="mb-1">
-                  Iniciei minha carreira como desenvolvedor na ENGECAL, fazendo manutenção do soft Webcal.
+                  Comecei a trabalhar com desenvolvedor na ENGECAL Calibração, fazendo manutenção do soft WebCal utilizando o framework CakePhp e a biblioteca Jquery.
                 </p>
                 <small className="text-muted">11/2017</small>
               </div>

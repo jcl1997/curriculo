@@ -29,6 +29,12 @@ export default class Follow extends Component {
                 &nbsp;jcl1997
               </p>
             </li>
+            <li className="list-group-item">
+              <p className="card-text">
+                <i className="fas fa-file-contract" />
+                &nbsp;https://jcl1997.github.io/curriculo/
+              </p>
+            </li>
           </ul>
         </div>
       </div>

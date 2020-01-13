@@ -24,7 +24,7 @@ export default class Header extends Component {
             </li>
             <li className="list-group-item">
               <p className="mb-0 align-middle">
-                <i className="fab fa-react fa-2x align-middle" />&nbsp;React
+                <i className="fab fa-react fa-2x align-middle" />&nbsp;React e React Native
               </p>
             </li>
             <li className="list-group-item">
