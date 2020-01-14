@@ -42,7 +42,7 @@ export default class Experience extends Component {
             <li className="list-group-item">
               <div className="d-flex w-100 justify-content-between">
                 <p className="mb-1">
-                  Comecei a trabalhar com desenvolvedor na ENGECAL Calibração, fazendo manutenção do software WebCal utilizando o framework CakePhp e a biblioteca Jquery.
+                  Comecei a trabalhar como desenvolvedor na ENGECAL Calibração, fazendo manutenção do software WebCal utilizando o framework CakePhp e a biblioteca Jquery.
                 </p>
                 <small className="text-muted">11/2017</small>
               </div>

@@ -9,7 +9,7 @@ export default class objective extends Component {
         </div>
         <div className="pt-5 card-body">
           <p>
-            Hoje o meu objetivo é desenvolver minha carreira de programador web utilizando as melhores praticas e tecnologias disponíveis no mercado.
+            Desenvolver minha carreira de programador web utilizando as melhores praticas e tecnologias disponíveis no mercado.
           </p>
         </div>
       </div>
