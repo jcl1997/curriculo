@@ -9,7 +9,7 @@ export default class Header extends Component {
         </div>
         <div className="pt-5 card-body">
           <p>
-          Atualmente sou desenvolvedor web, backend em php e frontend em react. Tenho facilidade em trabalhar em equipe, sou pontual.
+            Atualmente trabalho como programado FullStack utilizando PHP para backend, Javascript para frontend e mobile. Gosto muito de trabalhar em equipe, sou muito focado em cumprir as metas estabelecidas e tenho empatia para ajuda a equipe no que precisar.
           </p>
           <ul className="list-group list-group-flush">
             <li className="list-group-item">

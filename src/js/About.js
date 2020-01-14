@@ -12,7 +12,7 @@ export default class Follow extends Component {
         </div>
         <div className="card-body">
           <p className="card-text">
-          Sou muito calmo, concentrado, pontual, gosto de aprender coisas novas.
+          Sou muito calmo, paciente,, concentrado, pontual, gosto de aprender coisas novas e ajudar pessoas.
           </p>
         </div>
       </div>
