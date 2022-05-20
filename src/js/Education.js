@@ -18,7 +18,7 @@ export default class Skills extends Component {
               <p className="mb-0 align-middle">
                 Faculdade UNA - BARREIRO BELO HORIZONTE - MG
                 <br />
-                1/2019
+                Inicio do 1º semestre de 2019 - Conclusão no 2º semestre de 2021
               </p>
             </li>
             <li className="list-group-item">
@@ -26,7 +26,8 @@ export default class Skills extends Component {
             </li>
             <li className="list-group-item">
               <p className="mb-0 align-middle">
-                Centro Federal de Educação Tecnológica de Minas Gerais -BELO HORIZONTE - MG
+                Centro Federal de Educação Tecnológica de Minas Gerais -BELO
+                HORIZONTE - MG
                 <br />
                 2014/2017
               </p>

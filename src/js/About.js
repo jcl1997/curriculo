@@ -1,8 +1,7 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 export default class Follow extends Component {
   render() {
-    //  style="width: 20rem;"
     return (
       <div className="card">
         <div className="card-header card-header-text bg-primary">
@@ -12,7 +11,8 @@ export default class Follow extends Component {
         </div>
         <div className="card-body">
           <p className="card-text">
-          Sou muito calmo, paciente,, concentrado, pontual, gosto de aprender coisas novas e ajudar pessoas.
+            Sou muito calmo, concentrado, pontual, gosto de aprender coisas
+            novas.
           </p>
         </div>
       </div>

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 export default class Follow extends Component {
   render() {
@@ -6,22 +6,20 @@ export default class Follow extends Component {
       <div className="card">
         <div className="card-header card-header-text bg-danger">
           <div className="card-text">
-          <h3 className="card-title text-white">Siga-Me</h3>
+            <h3 className="card-title text-white">Siga-Me</h3>
           </div>
         </div>
         <div className="card-body">
           <ul className="list-group list-group-flush">
             <li className="list-group-item">
-              <p className="card-text">
-                <i className="fab fa-instagram" />
-                &nbsp;instagram/juliocl1997
-              </p>
-            </li>
-            <li className="list-group-item">
-              <p className="card-text">
+              <a
+                className="text-dark stretched-link"
+                target="_blank"
+                href="https://www.linkedin.com/in/juliocesarlima1997/"
+              >
                 <i className="fab fa-linkedin" />
                 &nbsp;linkedin/julioCesarLima1997
-              </p>
+              </a>
             </li>
             <li className="list-group-item">
               <p className="card-text">
@@ -30,10 +28,14 @@ export default class Follow extends Component {
               </p>
             </li>
             <li className="list-group-item">
-              <p className="card-text">
+              <a
+                className="text-dark stretched-link"
+                href="https://jcl1997.github.io/curriculo/"
+                target="_blank"
+              >
                 <i className="fas fa-file-contract" />
                 &nbsp;https://jcl1997.github.io/curriculo/
-              </p>
+              </a>
             </li>
           </ul>
         </div>

@@ -12,37 +12,34 @@ export default class Experience extends Component {
             <li className="list-group-item">
               <div className="d-flex w-100 justify-content-between">
                 <p className="mb-1">
-                  O aplicativo "WebCal Mobile" da empresa começou a ser refatorado de Java para Javascript utilizando React Native.
-                  Fazendo telas em React Native, componentes reutilizáveis de tela, serviços de background em Android para funciona em segundo plano.
-                </p>
-                <small className="text-muted">07/2019</small>
-              </div>
-            </li>
-            <li className="list-group-item">
-              <div className="d-flex w-100 justify-content-between">
-                <p className="mb-1">
-                  Ainda no Projeto do XNINE comecei a trabalhar com o frontend Utilizando o React.
-                  Fazendo telas em React Native, componentes reutilizáveis de tela e etc.
-                </p>
-                <small className="text-muted">01/2019</small>
-              </div>
-            </li>
-            <li className="list-group-item">
-              <div className="d-flex w-100 justify-content-between">
-                <p className="mb-1">
-                  Depois fui adicionado no novo projeto da ENGECAL o "XNINE".
+                  Atualmente trabalho sistema de calibração WebCal feito para
+                  salvar e calcular planilhas de calibração.
                   <br />
-                  Um sistema de gestão de ativos com a função de fornecer um controle total sobre tudo.
+                  Eu adiciono novos recursos ao sistema como gerar pdf e excel.
                   <br />
-                  Inicialmente fique responsável por criar API's no backend, na finalização do projeto responsável por fazer a integração com o "WebCal"
+                  <br />
+                  {/* <ul className="list-group list-group-flush">
+                    <li className="list-group-item">As minhas funções</li>
+                    <li className="list-group-item">
+                      Mantenho o sistema funcionado
+                    </li>
+                    <li className="list-group-item">
+                      Adiciono novos recursos ao WebCal
+                    </li>
+                    <li className="list-group-item">
+                      Atualiza o Aplicativo do WebCal Mobile
+                    </li>
+                  </ul> */}
                 </p>
-                <small className="text-muted">06/2018</small>
+                <small className="text-muted">05/2022</small>
               </div>
             </li>
             <li className="list-group-item">
               <div className="d-flex w-100 justify-content-between">
                 <p className="mb-1">
-                  Comecei a trabalhar como desenvolvedor na ENGECAL Calibração, fazendo manutenção do software WebCal utilizando o framework CakePhp e a biblioteca Jquery.
+                  Comecei a trabalhar como desenvolvedor na ENGECAL Calibração,
+                  fazendo manutenção do software WebCal utilizando o framework
+                  CakePhp e a biblioteca Jquery.
                 </p>
                 <small className="text-muted">11/2017</small>
               </div>

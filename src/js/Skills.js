@@ -11,15 +11,12 @@ export default class Skills extends Component {
           <ul className="list-group list-group-flush">
             <li className="list-group-item">
               <p className="mb-0 align-middle">
-                <i className="fab fa-html5 fa-2x align-middle" />&nbsp;HTML &nbsp;
-                <i className="fab fa-css3-alt fa-2x align-middle" />&nbsp;CSS &nbsp;
-                <i className="fab fa-bootstrap fa-2x align-middle" />&nbsp;Bootstrap
-              </p>
-            </li>
-            <li className="list-group-item">
-              <p className="mb-0 align-middle">
-                <i className="fab fa-js fa-2x align-middle" />&nbsp;Javascript &nbsp;
-                <i className="fab fa-php fa-2x align-middle" />&nbsp;PHP 7
+                <i className="fab fa-bootstrap fa-2x align-middle" />
+                &nbsp;Bootstrap&nbsp;
+                <i className="fab fa-js fa-2x align-middle" />
+                &nbsp;Javascript &nbsp;
+                <i className="fab fa-php fa-2x align-middle" />
+                &nbsp;PHP
               </p>
             </li>
             <li className="list-group-item">
